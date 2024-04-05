@@ -1,0 +1,15 @@
+git config --global user.email "name@example.com"
+
+git config --global user.name  "name"
+
+git clone htpp...... ;-> para clonar tu repositorio remoto en zone de trabajo local
+
+carpeta\git add --all -> para añadir todos los cambios de mi carpeta local a mi repositorio remoto.
+carperta\git commit -m "comentario" -> añado un comentario en cuanto al cambio que acabo de realizar
+
+git push ;-> para guardar lo hecho
+
+git pull ;-> trae los archivos de tu repositorio a tu nueva pc
+
+pull -> add -> comit -> push ; la forma de trabajar
+
